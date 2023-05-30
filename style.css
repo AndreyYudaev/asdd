@@ -1,0 +1,215 @@
+.butt {
+    padding: 10px;
+    background-color: rgb(200, 200, 200);
+    margin-left: 80px;
+    color: black;
+    font-weight: bold;
+    border: none;
+    border-radius: 30%;
+    transition: 1000ms;
+}
+
+.butt:hover {
+    background-color: orange;
+}
+.cost {
+    margin: 10px 0px 10px 0px
+}
+.tickets {
+
+}
+.img {
+    width: 150px;
+}
+.logo {
+    margin: 20px 0px 0px 80px;
+    color: black;
+    font-weight: bold;
+    font-size: 140px;
+    font-family: 'Sigmar', cursive;
+    display: flex;
+    align-items: center;
+}
+.cag {
+    padding: 27px 137px 27px 137px;
+    font-family: 'Sigmar', cursive;
+    transition: 500ms;
+    font-size: 23px;
+    color: #ebcfae;
+    background-color: #111D4A;
+}
+.navi {
+    font-size: 23px;
+    padding: 27px 137px 27px 137px;
+    font-family: 'Sigmar', cursive;
+    transition: 1000ms;
+    background-color: #1E1E24;
+    color: #FFCF99;
+
+}
+.under {
+    font-size: 18px;
+    font-weight: lighter;
+}
+.your {
+    padding-top: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+.ticks {
+
+}
+.text {
+    margin-left: 460px;
+    justify-content: center;
+    font-size: 75px;
+}
+.buyticks {
+    margin-top: 60px;
+    border-color: rgb(255, 77, 0);
+    padding: 10px 5px 10px 5px;
+    background-color: yellow;
+    font-size: 21px;
+    color: rgb(255, 139, 7);
+    border-radius: 7px;
+}
+.replace {
+    margin-left: 10px;
+    padding:1px 5px 1px 5px;
+}
+.sidebar {
+    background-color: white;
+    width: 300px;
+    height: auto;
+    font-size: 20px;
+    transition: 500ms;
+    display: flex;
+    justify-content: center;
+}
+
+.hidden {
+    opacity: 0;
+    transition: 500ms;
+}
+.full-cart {
+    margin-left: 1660px;
+    margin-bottom: 20px;
+}
+.cart {
+    width: 60px;
+}
+.cart:hover {
+    cursor: pointer;
+}
+.cag:hover {
+    background-color: #1E1E24;
+    color: #FFCF99;
+    cursor: pointer;
+
+}
+.cag:active {
+    background-color: #1E1E24;
+    color: #FFCF99;
+}
+.menu {
+    width: auto;
+    display: flex;
+    justify-content: center;
+}
+.list {
+    margin-top: 40px;
+    margin-left: 50px;
+    font-size: 20px;
+    font-family: 'Bruno Ace SC', cursive;
+    justify-content: space-between;
+}
+.fl {
+    display: flex;
+    gap: 200px;
+}
+.pics {
+}
+.date {
+    font-size: 17px;
+    color: rgb(197, 197, 197);
+}
+
+.row {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.el {
+    display: block;
+    background-color: rgb(5, 150, 194);
+    margin-bottom: 20px;
+    font-weight: bold;
+    padding: 15px 20px 15px 20px;
+}
+.cnt {
+    color: black;
+    text-decoration: none;
+}
+.description {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+    color: #0500006b;
+
+}
+.buy {
+    background-color: #111D4A;
+    color: white;
+    border: none;
+    border-radius: 8%;
+    padding: 7px 10px 7px 10px;
+    margin-top: 20px;
+    margin-left: 80px;
+    transition: 500ms;
+}
+.buy:hover {
+    cursor: pointer;
+    background-color: rgb(85, 0, 85);
+
+}
+body {
+    background-color: gainsboro;
+}
+.country {
+    display: flex;
+    padding: 80px 0px 80px 0px;
+    justify-content: space-between;
+    width: auto;
+}
+.pic {
+    width: 640px;
+}
+.Outof {
+    margin: 10px 0px 10px 0px;
+    color: red;
+}
+html {
+    scroll-behavior: smooth;
+}
+.ticket {
+    display: flex;
+    color: #111D4A;
+    border-color: black;
+    background-color: white;
+    justify-content: space-between;
+    gap: 55px;
+    width: 900px;
+    margin: 10px 0px 40px 40px;
+}
+.city {
+    color: #1E1E24;
+    margin: 10px 0px 10px 0px;
+    font-weight: bold;
+}
+.name {
+    font-weight: bold;
+    font-size: 26px;
+    padding: 10px 35px 10px 0px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif   ;
+}
